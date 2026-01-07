@@ -1,8 +1,4 @@
----
-license: mit
-datasets:
-- TongjiZhanglab/NuCorpus-15M
----
+
 # NuSPIRe: Nuclear Morphology focused Self-supervised Pretrained model for Image Representations
 
 
