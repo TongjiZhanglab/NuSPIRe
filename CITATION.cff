@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hua"
+  given-names: "Yuwei"
+- family-names: "Li"
+  given-names: "Shiyu"
+- family-names: "Zhang"
+  given-names: "Yong"
+title: "NuSPIRe"
+version: 1.0.0
+doi: 10.5281/zenodo.18396614
+date-released: 2026-01-27
+url: "https://github.com/TongjiZhanglab/NuSPIRe"
