@@ -135,3 +135,8 @@ If you use NuSPIRe in your research, please cite the following paper:
 
 Hua, Y., Li, S., & Zhang, Y. (2024). NuSPIRe: Nuclear Morphology focused Self-supervised Pretrained model for Image Representations. 
 -->
+
+## License
+
+This project is licensed under the MIT License.
+See the LICENSE file for details.
