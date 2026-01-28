@@ -140,3 +140,7 @@ Hua, Y., Li, S., & Zhang, Y. (2024). NuSPIRe: Nuclear Morphology focused Self-su
 
 This project is licensed under the MIT License.
 See the LICENSE file for details.
+
+## Model Parameters
+
+The model parameters are available on Hugging Face at https://huggingface.co/TongjiZhanglab/NuSPIRe
